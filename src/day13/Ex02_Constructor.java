@@ -21,6 +21,7 @@ public class Ex02_Constructor {
 		int age = scanner.nextInt();
 		Constructor02 con = new Constructor02(age);
 		System.out.println("만 나이 : " + con.getAge());
+		//테스트
 	}
 
 }
